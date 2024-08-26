@@ -1,10 +1,10 @@
 # Cyb04-onl_TMS
 
 1. Настройка Windows Server 2019
-![alt text](https://github.com/EvgeniMenitsky/Cyb04-onl_TMS/main/server19.png "Windows Server 2019")
+![Image](/Task2/server19.png)
 
 2. Настройка Windows 10
-![alt text](https://github.com/EvgeniMenitsky/Cyb04-onl_TMS/main/win10.png "Windows 10")
+![Image](/Task2/win10.png)
 
 3. Настройка Kali Linux
-![alt text](https://github.com/EvgeniMenitsky/Cyb04-onl_TMS/main/kali.png "Kali")
+![Image](/Task2/kali.png)
